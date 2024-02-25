@@ -1,0 +1,5 @@
+{
+  "key.with.no.args": "Key with no args...",
+  "key.with.one.arg": "Key with one arg, %s!",
+  "key.with.no.args.again": "hello"
+}

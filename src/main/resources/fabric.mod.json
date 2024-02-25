@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "translationkeytestmod",
+	"version": "${version}",
+	"name": "Translation Key Test Mod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"unilock"
+	],
+	"contact": {
+		"sources": "https://github.com/unilock/TranslationKeyTestMod"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "cc.unilock.translationkeytestmod.TranslationKeyTestMod"
+		]
+	},
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": ">=1.20.1",
+		"fabric-api": "*"
+	}
+}
