@@ -1,4 +1,4 @@
-# Translation Key Test Mod
+# Translation Key Test Mod (https://github.com/Sinytra/Connector/issues/861)
 
 Consider the following language file:
 
